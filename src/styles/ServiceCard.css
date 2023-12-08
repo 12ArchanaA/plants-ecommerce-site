@@ -1,0 +1,30 @@
+.service-list {
+    /* width: 70vw;
+    height: auto; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    place-items: center;
+    padding: 10px;
+}
+
+.service-image {
+    background-color: #F0F0F0;
+    width: 240px;
+    height: 260px;
+    border-radius: 15px;
+    object-fit: cover;
+}
+
+.service-image img {
+
+    width: 240px;
+    height: 260px;
+}
+
+.service-card {
+    /* border-radius: 15px;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, .7);
+    height: 350px;
+    width: 300px; */
+    margin: 20px;
+}

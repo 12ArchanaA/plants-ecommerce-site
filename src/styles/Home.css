@@ -1,0 +1,44 @@
+.home {
+    width: 100%;
+    height: 90vh;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-part {
+    padding: 2%;
+}
+
+.header-part {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 9%;
+}
+
+.para-1 {
+    font-weight: 600;
+    font-size: x-large;
+}
+
+.para-2 {
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.shop-now-button {
+    width: 184px;
+    height: 48px;
+    top: 409px;
+    left: 628px;
+    border-radius: 50px;
+    background-color: #155E1E;
+    color: white;
+    border: none;
+}

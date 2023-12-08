@@ -1,0 +1,22 @@
+.footer {
+    background-color: #C9C9C9;
+    display: flex;
+    justify-content: space-evenly;
+    /* height: 200px; */
+    align-items: center;
+    text-align: center;
+}
+
+.logo-section img {
+    height: 64%;
+    width: 61%;
+    margin-top: 4%;
+}
+
+.links-secton {
+    display: flex;
+}
+
+.icon-links {
+    display: flex;
+}
